@@ -3,7 +3,7 @@ import {
   CharacteristicValue as ShelliesCharacteristicValue,
   Pm1,
   Pm1AenergyStatus,
-} from "shellies-ds9";
+} from "node-shellies-gu5";
 
 import { Ability, ServiceClass } from "./base";
 

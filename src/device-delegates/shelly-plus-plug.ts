@@ -3,7 +3,7 @@ import {
   ShellyPlusPlugEu,
   ShellyPlusPlugIt,
   ShellyPlusPlugUk,
-} from "shellies-ds9";
+} from "node-shellies-gu5";
 
 import { DeviceDelegate } from "./base";
 

@@ -2,7 +2,7 @@ import { Logger } from 'homebridge';
 import { promises as fs } from 'fs';
 import { resolve } from 'path';
 
-import { Device, DeviceId, WebSocketRpcHandler } from 'shellies-ds9';
+import { Device, DeviceId, WebSocketRpcHandler } from 'node-shellies-gu5';
 
 const FILENAME = '.shelly-ng.json';
 

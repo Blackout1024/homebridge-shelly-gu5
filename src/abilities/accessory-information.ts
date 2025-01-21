@@ -1,4 +1,4 @@
-import { Device } from 'shellies-ds9';
+import { Device } from 'node-shellies-gu5';
 
 import { Ability, ServiceClass } from './base';
 

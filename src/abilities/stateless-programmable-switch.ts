@@ -1,4 +1,4 @@
-import { Input } from 'shellies-ds9';
+import { Input } from 'node-shellies-gu5';
 
 import { Ability, ServiceClass } from './base';
 

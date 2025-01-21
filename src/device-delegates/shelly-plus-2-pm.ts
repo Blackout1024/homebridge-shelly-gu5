@@ -1,4 +1,4 @@
-import { ShellyGen32Pm, ShellyPlus2Pm, ShellyPlus2PmRev1 } from "shellies-ds9";
+import { ShellyGen32Pm, ShellyPlus2Pm, ShellyPlus2PmRev1 } from "node-shellies-gu5";
 
 import { DeviceDelegate } from "./base";
 

@@ -1,4 +1,4 @@
-import { DeviceId } from 'shellies-ds9';
+import { DeviceId } from 'node-shellies-gu5';
 import { PlatformAccessory } from 'homebridge';
 
 import { Ability } from './abilities';

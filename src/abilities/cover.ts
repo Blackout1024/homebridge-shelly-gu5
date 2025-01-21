@@ -1,5 +1,5 @@
 import { CharacteristicValue } from "homebridge";
-import { Cover } from "shellies-ds9";
+import { Cover } from "node-shellies-gu5";
 
 import { Ability, ServiceClass } from "./base";
 

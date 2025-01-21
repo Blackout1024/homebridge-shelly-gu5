@@ -1,4 +1,4 @@
-import { ShellyPlusPMDimmer } from "shellies-ds9";
+import { ShellyPlusPMDimmer } from "node-shellies-gu5";
 
 import { DeviceDelegate } from "./base";
 

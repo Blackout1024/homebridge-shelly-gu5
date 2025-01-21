@@ -1,8 +1,8 @@
 import {
   ShellyPro1Pm,
   ShellyPro1PmRev1,
-  ShellyPro1PmRev2,
-} from 'shellies-ds9';
+  ShellyPro1PmRev2, ShellyPro1PmRev3,
+} from 'node-shellies-gu5';
 
 import { DeviceDelegate } from './base';
 
@@ -22,4 +22,5 @@ DeviceDelegate.registerDelegate(
   ShellyPro1Pm,
   ShellyPro1PmRev1,
   ShellyPro1PmRev2,
+  ShellyPro1PmRev3,
 );

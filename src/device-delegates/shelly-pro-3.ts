@@ -1,4 +1,4 @@
-import { ShellyPro3 } from 'shellies-ds9';
+import { ShellyPro3 } from 'node-shellies-gu5';
 
 import { DeviceDelegate } from './base';
 
